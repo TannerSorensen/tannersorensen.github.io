@@ -1,0 +1,20 @@
+title: Pagellae
+description: personal blog
+baseurl: ""
+url: "https://tannersorensen.github.io"
+
+# Theme
+remote_theme: patdryburgh/hitchens
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Author info
+author:
+  name: Tanner Sorensen
+  email: tannersorensen9991@gmail.com
+
+# Copyright
+copyright: "© 2025 Tanner Sorensen. All rights reserved."
